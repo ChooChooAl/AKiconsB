@@ -1,4 +1,8 @@
+Places
+
 ![](sample.png)
+
+Apps
 
 ![](sample2.png)
 
