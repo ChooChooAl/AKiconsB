@@ -14,7 +14,7 @@
    height="16"
    id="svg7387"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="mintupdate-up-to-date-symbolic.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1">
@@ -693,14 +693,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="36.25"
-     inkscape:cx="8.1497038"
-     inkscape:cy="7.7543776"
+     inkscape:cx="2.1634969"
+     inkscape:cy="7.6992052"
      inkscape:current-layer="g3215"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1600"
-     inkscape:window-height="821"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -769,7 +769,7 @@
          id="path4668-3"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:none;stroke:#00d600;stroke-width:2.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#00006f;stroke-width:2.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 4.3863578,39.862069 3.4482759,4.027586 4.7172413,-8.303448"
          id="path4668"
          inkscape:connector-curvature="0" />
