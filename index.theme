@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=AKblack
+Name=AKiconsB
 Comment=Personal theme tweaked from multiple sources to add icons where there were none.
 
 Inherits=hi-color
@@ -477,4 +477,3 @@ Size=128
 MaxSize=256
 Context=Actions
 Type=Scalable
-
