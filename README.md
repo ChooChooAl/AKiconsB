@@ -6,7 +6,7 @@ Apps
 
 ![](sample2.png)
 
-An icon theme where folders have black tabs.
+An icon theme where folders have black tabs and the folders are a bit taller than most I have seen.
 I have customized many icons for a more colorful appearance, filled in missing icons that would default to other less colorful themes.
 
 There is a complimentary theme 'AKicons' that has white tabs on the folders.
