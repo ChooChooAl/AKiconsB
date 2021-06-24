@@ -11,7 +11,7 @@
    width="16"
    version="1.1"
    id="svg2"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="battery-full-charging-symbolic.svg">
   <metadata
      id="metadata16">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,17 +36,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="747"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
      id="namedview12"
      showgrid="false"
      inkscape:zoom="20.85965"
-     inkscape:cx="3.6912497"
+     inkscape:cx="-6.9273369"
      inkscape:cy="11.208282"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4" />
+     inkscape:current-layer="g5293" />
   <g
      fill="#bebebe"
      id="g4">
@@ -72,18 +72,18 @@
   <g
      id="g5293"
      fill="#bebebe">
+    <rect
+       id="rect5297"
+       x="3.2307422"
+       y="5.8417721"
+       width="3.9117241"
+       height="7.8347564"
+       ry="0"
+       rx="0"
+       style="opacity:1;stroke:#00ff00;stroke-width:3.94123697;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path5295"
        d="m0 14.75c0 0.692 0.5575 1.25 1.25 1.25h8.5c0.692 0 1.25-0.558 1.25-1.25v-1.688l-2-3.374v3.562c0 0.416-0.3345 0.75-0.75 0.75h-5.5c-0.4155 0-0.75-0.334-0.75-0.75v-8.5c0-0.416 0.3345-0.75 0.75-0.75h5.5c0.4155 0 0.75 0.334 0.75 0.75v3.25h2v-4.7502c0-0.6925-0.558-1.25-1.25-1.25h-1.75v-1.5c0-0.277-0.223-0.5-0.5-0.5h-4c-0.277 0-0.5 0.223-0.5 0.5v1.5h-1.75c-0.6925 0-1.25 0.5575-1.25 1.25v11.5z" />
-    <rect
-       id="rect5297"
-       x="2"
-       y="4"
-       width="7"
-       height="10"
-       ry="0"
-       rx="0"
-       opacity=".45" />
     <path
        sodipodi:nodetypes="ccccccccccccccccc"
        inkscape:connector-curvature="0"
