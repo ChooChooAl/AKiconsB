@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="drive.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="32.171692"
+     inkscape:cx="4.7091089"
+     inkscape:cy="6.713977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#ff803c;stroke:#000000;stroke-width:0"
+       id="path358"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="2.1207359"
+       sodipodi:cy="1.9154046"
+       sodipodi:r1="1.0743293"
+       sodipodi:r2="0.53960991"
+       sodipodi:arg1="-1.567575"
+       sodipodi:arg2="-0.37428267"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 2.1241966,0.84108088 2.6229887,1.7181205 3.0493971,2.4555635 2.0404625,2.4490103 1.1886139,2.4495693 1.6987565,1.5790829 Z"
+       inkscape:transform-center-x="-0.004199334"
+       inkscape:transform-center-y="-0.53882488"
+       transform="matrix(1.6905293,0,0,1.2680361,-1.4470896,-0.69663214)" />
+    <rect
+       style="fill:#ff803c;stroke:#000000;stroke-width:0"
+       id="rect412"
+       width="3.1966949"
+       height="0.65246147"
+       x="0.52501565"
+       y="2.9165857"
+       ry="0.32165998"
+       rx="0" />
+  </g>
+</svg>
